@@ -20,6 +20,7 @@ class Solution:
             if coins < 0:
                 return counted
             counted += __count
+    
         return counted
 
 
