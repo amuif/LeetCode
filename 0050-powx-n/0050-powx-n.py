@@ -1,8 +1,20 @@
 class Solution:
     def myPow(self, x: float, n: int) -> float:
-        if n == 0:
-            return 1
-        elif n > 0:
-            return x * self.myPow(x, n - 1)
-        else:
-            return 1 / self.myPow(x, -n)
+        result = 1.0
+        
+        # Handle the case where n is negative
+        if n < 0:
+            n = -n  # Make n positive
+            x = 1 / x  # Take the reciprocal of x
+        
+        # Iterate until n becomes 0
+        while n > 0:
+            # If n is odd, multiply x with result
+            if n % 2!= 0:
+                result *= x
+            
+            # Square x and halve n
+            x *= x
+            n //= 2
+        
+        return result
