@@ -5,7 +5,7 @@ class Solution:
             return False
 
         mini = nums[0]
-        
+    
         for i in nums:
             while stack and i >= stack[-1][0]:
                 stack.pop()
@@ -13,6 +13,7 @@ class Solution:
                 return True
 
             stack.append([i,mini])
+            print(stack)
             mini = min(mini , i)
 
         return False
