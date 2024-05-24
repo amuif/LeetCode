@@ -8,17 +8,16 @@ class Solution:
             elif i == 10:
                 ten_count +=1
                 five_count -=1
-            elif i == 20:
+            else:
                 if ten_count:
                     ten_count -=1
                     five_count -=1
                 else:
-                    five_count -3
+                    five_count -=3
+
             if five_count < 0:
                 return False
     
         return True
                 
-            
-
-        
+   
