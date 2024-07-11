@@ -6,7 +6,9 @@ class Solution:
             if s[i] in my_dict.keys():
                 stack.append(s[i])
             else:
-                if stack and s[i]!=my_dict[stack.pop()]:
+                if not stack:
+                    return False
+                if s[i]!=my_dict[stack.pop()]:
                     return False
         
         return stack == []
