@@ -1,15 +1,15 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        op={'{':'}','(':')','[':']'}
-        stack=[]
-        for par in s:
-            if par in op.keys():
-                stack.append(par)
-            else:
-                if stack and op[stack[-1]] == par:
+        stack = []
+        dic ={")": "(" , "}" : "{" , "]": "["}
+        for i in s:
+            if i in dic:
+                if stack and stack[-1] == dic[i]:
                     stack.pop()
                 else:
                     return False
-        if not stack:
-            return True
-        return False
+            else:
+                stack.append(i)
+
+        return True if not stack else False
+        
