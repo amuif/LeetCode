@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/simplify-path/">71. Simplify Path</a></h2><h3>Medium</h3><hr><p>Given an absolute path for a Unix-style file system, which begins with a slash <code>&#39;/&#39;</code>, transform this path into its <strong>simplified canonical path</strong>.</p>
+<h2><a href="https://leetcode.com/problems/simplify-path">71. Simplify Path</a></h2><h3>Medium</h3><hr><p>Given an absolute path for a Unix-style file system, which begins with a slash <code>&#39;/&#39;</code>, transform this path into its <strong>simplified canonical path</strong>.</p>
 
 <p>In Unix-style file system context, a single period <code>&#39;.&#39;</code> signifies the current directory, a double period <code>&quot;..&quot;</code> denotes moving up one directory level, and multiple slashes such as <code>&quot;//&quot;</code> are interpreted as a single slash. In this problem, treat sequences of periods not covered by the previous rules (like <code>&quot;...&quot;</code>) as valid names for files or directories.</p>
 
