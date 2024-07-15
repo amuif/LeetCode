@@ -1,15 +1,7 @@
 class Solution:
     def fib(self, n: int) -> int:
-        output = 0
-
-        def fibonacci(n: int) -> int:
-
-            if n <= 1:
-                return n
-            else:
-                return fibonacci(n - 1) + fibonacci(n - 2)
-
-        for i in range(n):
-            output = fibonacci(n)
-
-        return output
+        if n == 0:
+            return 0
+        if n == 1:
+            return 1
+        return( self.fib(n-1)+ self.fib(n-2))
