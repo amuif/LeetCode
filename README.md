@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/amuif/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2350-find-closest-number-to-zero](https://github.com/amuif/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -25,4 +26,12 @@
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/amuif/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/amuif/LeetCode/tree/master/1511-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/amuif/LeetCode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
