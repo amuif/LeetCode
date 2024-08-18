@@ -34,4 +34,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/amuif/LeetCode/tree/master/1511-count-number-of-teams) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/amuif/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
