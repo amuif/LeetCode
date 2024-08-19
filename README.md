@@ -29,6 +29,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/amuif/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1511-count-number-of-teams](https://github.com/amuif/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -38,4 +39,5 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/amuif/LeetCode/tree/master/0007-reverse-integer) |
+| [0650-2-keys-keyboard](https://github.com/amuif/LeetCode/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
