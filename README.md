@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/amuif/LeetCode/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/amuif/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2350-find-closest-number-to-zero](https://github.com/amuif/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/amuif/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/amuif/LeetCode/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/amuif/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -40,4 +42,13 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/amuif/LeetCode/tree/master/0007-reverse-integer) |
 | [0650-2-keys-keyboard](https://github.com/amuif/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/amuif/LeetCode/tree/master/1240-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/amuif/LeetCode/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/amuif/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
