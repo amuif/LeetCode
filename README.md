@@ -26,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/amuif/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/amuif/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/amuif/LeetCode/tree/master/0007-reverse-integer) |
+| [0564-find-the-closest-palindrome](https://github.com/amuif/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/amuif/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/amuif/LeetCode/tree/master/1240-stone-game-ii) |
 ## Prefix Sum
