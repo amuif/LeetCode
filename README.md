@@ -8,6 +8,7 @@
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/amuif/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/amuif/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Shortest Path
 |  |
@@ -53,4 +54,16 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/amuif/LeetCode/tree/master/1240-stone-game-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/amuif/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Depth-First Search
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/amuif/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Union Find
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/amuif/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
