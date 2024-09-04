@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/amuif/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/amuif/LeetCode/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/amuif/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2350-find-closest-number-to-zero](https://github.com/amuif/LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -57,6 +58,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/amuif/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amuif/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Depth-First Search
 |  |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amuif/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Simulation
+|  |
+| ------- |
+| [0906-walking-robot-simulation](https://github.com/amuif/LeetCode/tree/master/0906-walking-robot-simulation) |
 <!---LeetCode Topics End-->
