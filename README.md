@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/amuif/LeetCode/tree/master/0564-find-the-closest-palindrome) |
+| [1297-maximum-number-of-balloons](https://github.com/amuif/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/amuif/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -61,6 +62,7 @@
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/amuif/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amuif/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1297-maximum-number-of-balloons](https://github.com/amuif/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amuif/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
 |  |
@@ -79,4 +81,8 @@
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/amuif/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amuif/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/amuif/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
