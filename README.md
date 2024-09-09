@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/amuif/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1019-squares-of-a-sorted-array](https://github.com/amuif/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1240-stone-game-ii](https://github.com/amuif/LeetCode/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/amuif/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2350-find-closest-number-to-zero](https://github.com/amuif/LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -25,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/amuif/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/amuif/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/amuif/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/amuif/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
