@@ -91,4 +91,8 @@
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/amuif/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/amuif/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
