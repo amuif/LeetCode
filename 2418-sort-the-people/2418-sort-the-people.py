@@ -1,13 +1,6 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
-        zipped = lambda names, heights: [
-            name
-            for name, height in sorted(
-                zip(names, heights), key=lambda x: x[1], reverse=True
-            )
-        ]
-
-      
-        sorted_names = zipped(names, heights)
-
-        return sorted_names
+        zipped  = list(zip_longest(names,heights))
+        zipped.sort(key= lambda X : X[1])
+        return [x[0] for x in zipped][::-1]
+        
