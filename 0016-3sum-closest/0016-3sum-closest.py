@@ -1,26 +1,24 @@
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
-        # Sort the list to apply the two-pointer approach
         nums.sort()
-        n = len(nums)
-      
-        closest_sum = float('inf')
-      
-        for i in range(n - 2):  
-            left_pointer = i + 1
-            right_pointer = n - 1
-          
-            while left_pointer < right_pointer:
-                current_sum = nums[i] + nums[left_pointer] + nums[right_pointer]
-              
-                if current_sum == target:
-                    return current_sum
-              
-                if abs(current_sum - target) < abs(closest_sum - target):
-                    closest_sum = current_sum
-              
-                if current_sum > target:
-                    right_pointer -= 1  
+        closest_sum = float('inf')  # Initialize with infinity for comparison
+
+        for i in range(len(nums)):
+            l, r = i + 1, len(nums) - 1  # Reset pointers for each `i`
+
+            while l < r:
+                curr_sum = nums[i] + nums[l] + nums[r]
+
+                # Update closest sum if the current sum is closer to the target
+                if abs(curr_sum - target) < abs(closest_sum - target):
+                    closest_sum = curr_sum
+
+                # Adjust pointers based on comparison with the target
+                if curr_sum < target:
+                    l += 1  # Increase the sum by moving `l` to the right
+                elif curr_sum > target:
+                    r -= 1  # Decrease the sum by moving `r` to the left
                 else:
-                    left_pointer += 1 
+                    return curr_sum  # If exactly equal to the target, return immediately
+
         return closest_sum
