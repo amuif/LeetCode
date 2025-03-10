@@ -1,5 +1,5 @@
 class CacheNode:
-    def __init__(self,key,val,prev=None,nextt=None):
+    def __init__(self,val,key,prev=None,nextt=None):
         self.val = val
         self.key = key
         self.prev=prev
