@@ -13,7 +13,7 @@ class Solution:
                 return True
 
             stack.append([i,mini])
-            print(stack)
+            
             mini = min(mini , i)
 
         return False
