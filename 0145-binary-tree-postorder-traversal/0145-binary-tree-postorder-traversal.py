@@ -9,15 +9,14 @@ class Solution:
         result = []
         
         def traverse(node):
-            # print(node)
             if node:
-                # Visit left subtree
                 traverse(node.left)
-                # Visit right subtree
                 traverse(node.right)
-                # Visit node itself
                 result.append(node.val)
-        
+
         traverse(root)
         return result
+
+
+
              
