@@ -6,14 +6,16 @@
 #         self.right = right
 class Solution:
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
-        ans = defaultdict(lambda: float("-inf"))
+        ans = []
 
         def get_max(node, level ):
             if not node:
                 return
 
-
-            ans[level] = max(node.val, ans[level])         
+            if level == len(ans):
+                ans.append(node.val)
+            else:
+                ans[level] = max(node.val, ans[level])      
             
 
             get_max(node.left,level+1)
@@ -21,6 +23,6 @@ class Solution:
 
 
         get_max(root, 0)
-        return list(ans.values())
+        return list(ans)
         
         
